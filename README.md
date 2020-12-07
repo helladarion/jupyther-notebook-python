@@ -8,7 +8,7 @@ How to run it
 ------------
 
 > **Note:**
-> You will need to have **docker** and **docker-compose** installed on your box
+> You will need to have [docker](https://docs.docker.com/engine/install/) and [docker-compose](https://docs.docker.com/compose/install/) installed on your box
 
 ### Run
 Once you are inside the main directory you will be able to run it with:
