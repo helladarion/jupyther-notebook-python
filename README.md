@@ -29,6 +29,7 @@ datascience-notebook-container |      or http://127.0.0.1:8888/?token=10965eb664
 ```
 
 
-> **Note:**  **-d** it there to run it on the background
-> A **books** folder will be create in the directory, if you want to keep your code saved.
-> docker-compose logs will give you the link to access your Jupyter-notebook```
+> **Note:**  
+> - **-d** it there to run it on the background.
+> - A **books** folder will be create in the directory, if you want to keep your code saved.
+> - docker-compose logs will give you the link to access your Jupyter-notebook
