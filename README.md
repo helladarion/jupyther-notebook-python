@@ -13,13 +13,13 @@ How to run it
 ### Run
 Once you are inside the main directory you will be able to run it with:
 ```shell
-// Start the containers
 docker-compose up -d
-// Check the logs
 ```
-##docker-compose logs
+### docker-compose logs
 you will find the links to access your application at the bottom of the logs:
 ```bash
+docker-compose logs
+...
 // you will probably see something like so:
 datascience-notebook-container |     To access the notebook, open this file in a browser:
 datascience-notebook-container |         file:///home/jovyan/.local/share/jupyter/runtime/nbserver-8-open.html
