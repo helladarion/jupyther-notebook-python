@@ -1,4 +1,4 @@
-Welsome to jupyther-notebook-python
+Welcome to jupyther-notebook-python
 ===================================
 
 This is a super simple docker-compose file to run Jupyter notebook for python3 studying ideas
